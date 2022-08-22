@@ -2,6 +2,6 @@
 
 - 🌱 Estudando Java, Spring Boot..
 - 📫 Contate-me por gregorydantasjc@hotmail.com
-- 😄 Pronomes Ele /dele
+- 🧑 Pronomes Ele /dele
 
 
