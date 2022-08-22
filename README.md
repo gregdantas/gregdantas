@@ -1,8 +1,9 @@
 #Olá eu sou Gregory
 
-- 🌱 Estudando Java, Spring Boot..
+- 📚 Estudando Desenvolvimento Web com Java e Spring Boot..
+- 👨‍🎓Graduando em Análise e desenvolvimento de sistemas
 - 📫 Contate-me por gregorydantasjc61@gmail.com
-- 🧑 Pronomes Ele /dele
+
 
 
 
