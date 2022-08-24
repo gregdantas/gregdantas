@@ -1,10 +1,11 @@
-#Olá eu sou Gregory
+<h1 align="left">Oi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou Gregory</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gregdantas&color=red" alt="Profile views" /> </p>
+
 
 - 📚 Estudando Desenvolvimento Web com Java e Spring Boot..
-- 👨‍🎓Graduando em Análise e desenvolvimento de sistemas
-- 📫 Contate-me por gregorydantasjc61@gmail.com
-
-
+- 👨‍🎓Graduando em Análise e desenvolvimento de sistemas.
+- 🧠 Desenvolvendo novas habilidades.
+- 📫 Contate-me por gregorydantasjc61@gmail.com.
 
 
 
